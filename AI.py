@@ -80,7 +80,7 @@ webbrowser.open("www.netflix.com")
  try:
  speak("What should I say?")
  content = takeCommand()
- to = "haric4933@gmail.com" 
+ to = "yerramkarthik29@gmail.com" 
  sendEmail(to, content)
  speak("Email has been sent!")
  except Exception as e:
