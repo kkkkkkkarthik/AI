@@ -19,7 +19,7 @@ def wishMe():
  speak("Good Afternoon!") 
  else:
  speak("Good Evening!") 
- speak("hello sir this is haris assistant specially made for you") 
+ speak("hello sir this is karthik's assistant specially made for you") 
  def takeCommand():
  r = sr.Recognizer()
  with sr.Microphone() as source:
